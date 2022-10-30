@@ -38,6 +38,12 @@ let filme1 = new Filme("O jogo da Imitação", 8.0, 1, 114, 2014, ["Biografia", 
 
 filme1.show();
 
+filme1.adicionarAvaliacao(10);
+
+filme1.show();
+
+/*
+
 filme1.set("Estrelas Além do Tempo", 7.8, 1, 127, 2016, ["Biografia", "Drama", "História"]);
 
 filme1.show();
@@ -45,3 +51,4 @@ filme1.show();
 let filme2 = new Filme("Top Gun", 8.6, 1, 130, 2022, ["Ação", "Drama"]);
 
 filme2.show();
+*/
