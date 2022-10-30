@@ -26,3 +26,4 @@ f.anoPublicacao = 2016,
 f.genero = ["Biografia", "Drama", "História"] 
 
 exibeFilme(f);
+
