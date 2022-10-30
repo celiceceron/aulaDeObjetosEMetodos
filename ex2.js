@@ -1,3 +1,4 @@
+// ENXUGANDO O CÓDIGO:
 const exibeFilme = (filme) => {
     console.log(filme.titulo);
     console.log(filme.notaAvaliacao);
@@ -32,6 +33,5 @@ let filme = {
 filme.show();
 
 filme.set("Estrelas Além do Tempo", 7.8, 127, 2016, ["Biografia", "Drama", "História"]);
-
 
 filme.show(filme);

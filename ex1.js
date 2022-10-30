@@ -1,4 +1,4 @@
-
+//PRIMEIRA OPCAO DE CODIGO:
 const exibeFilme = (filme) => {
     console.log(filme.titulo);
     console.log(filme.notaAvaliacao);
