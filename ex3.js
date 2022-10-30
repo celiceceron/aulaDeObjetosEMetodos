@@ -34,6 +34,9 @@ let filme1 = criarFilme("O jogo da Imitação", 8.0, 114, 2014, ["Biografia", "D
 
 filme1.show();
 
+filme1.set("Estrelas Além do Tempo", 7.8, 127, 2016, ["Biografia", "Drama", "História"]);
+
+filme1.show();
 
 let filme2 = criarFilme("Top Gun", 8.6, 130, 2022, ["Ação", "Drama"]);
 
